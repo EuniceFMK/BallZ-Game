@@ -13,7 +13,7 @@ This project was created to practice object-oriented programming, game logic, an
 - The **score updates automatically** with each action.  
 - The **animation speed** can be adjusted in real-time using a **modeless dialog** with a scrollbar.
 
-![Game Screenshot](Screenshots/gamecapture.png)
+![Game Screenshot](screenshots/gamecapture.PNG)
 
 ## Key Features
 
